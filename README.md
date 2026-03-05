@@ -3,9 +3,10 @@
 
 **NLP Pipeline for Financial News Sentiment and Stock Price Correlation**
 
-##  Project Vision
 
 Can AI accurately predict market sentiment from a single headline? This project bridges the gap between **Natural Language Processing (NLP)** and **Quantitative Finance**. By fine-tuning **FinBERT** on expert-labeled financial data, this system classifies news sentiment and correlates those findings with real-world next-day stock price movements.
+
+
 
 ---
 
@@ -87,7 +88,6 @@ python app.py
 
 * **MSc Data Science** | **B.Tech AI & Machine Learning**
 * 📍 London, UK
-* [LinkedIn](https://www.google.com/search?q=YOUR_LINKEDIN) | [Portfolio](https://www.google.com/search?q=YOUR_PORTFOLIO)
 
 ---
 
