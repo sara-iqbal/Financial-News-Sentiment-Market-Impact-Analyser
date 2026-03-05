@@ -6,7 +6,7 @@
 
 Can AI accurately predict market sentiment from a single headline? This project bridges the gap between **Natural Language Processing (NLP)** and **Quantitative Finance**. By fine-tuning **FinBERT** on expert-labeled financial data, this system classifies news sentiment and correlates those findings with real-world next-day stock price movements.
 
-
+Project demo: https://sara-iqbal.github.io/Financial-News-Sentiment-Market-Impact-Analyser/
 
 ---
 
